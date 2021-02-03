@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e88f09c4-199e-4d9e-b683-32aa5ec39373" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nk9IuLxmW4fAlOUumwwAJAX17J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="positionsystem" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PositionCalcsTest">
+    <configuration name="PositionCalcsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="position_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="positionsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="positionsystem" />
+      <option name="MAIN_CLASS_NAME" value="positionsystem.PositionCalcsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositionCalcsTest.testCancelTransactions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="position_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="positionsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="positionsystem" />
+      <option name="MAIN_CLASS_NAME" value="positionsystem.PositionCalcsTest" />
+      <option name="METHOD_NAME" value="testCancelTransactions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositionCalcsTest.testUpdateTransactionMultipleTradesDiffTradeId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="position_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="positionsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="positionsystem" />
+      <option name="MAIN_CLASS_NAME" value="positionsystem.PositionCalcsTest" />
+      <option name="METHOD_NAME" value="testUpdateTransactionMultipleTradesDiffTradeId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositionCalcsTest.testUpdateTransactionMultipleTradesSameTradeIdUpdateSecCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="position_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="positionsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="positionsystem" />
+      <option name="MAIN_CLASS_NAME" value="positionsystem.PositionCalcsTest" />
+      <option name="METHOD_NAME" value="testUpdateTransactionMultipleTradesSameTradeIdUpdateSecCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositionCalcsTest.testUpdateTransactionReverseOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="position_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="positionsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="positionsystem" />
+      <option name="MAIN_CLASS_NAME" value="positionsystem.PositionCalcsTest" />
+      <option name="METHOD_NAME" value="testUpdateTransactionReverseOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PositionCalcsTest" />
+        <item itemvalue="JUnit.PositionCalcsTest.testCancelTransactions" />
+        <item itemvalue="JUnit.PositionCalcsTest.testUpdateTransactionMultipleTradesSameTradeIdUpdateSecCode" />
+        <item itemvalue="JUnit.PositionCalcsTest.testUpdateTransactionMultipleTradesDiffTradeId" />
+        <item itemvalue="JUnit.PositionCalcsTest.testUpdateTransactionReverseOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../cats/cats-effect-tutorial-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e88f09c4-199e-4d9e-b683-32aa5ec39373" name="Default Changelist" comment="" />
+      <created>1611923144743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611923144743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1611924122973">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="386" y="98" key="#com.intellij.ide.util.MemberChooser/0.23.1280.731@0.23.1280.731" timestamp="1611924122973" />
+    <state x="378" y="174" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1611923562458">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="378" y="174" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1280.731@0.23.1280.731" timestamp="1611923562458" />
+    <state x="238" y="319" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1611923669979">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="238" y="319" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1280.731@0.23.1280.731" timestamp="1611923669979" />
+    <state x="412" y="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1611923671894">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="412" y="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1280.731@0.23.1280.731" timestamp="1611923671894" />
+    <state width="1280" height="226" key="GridCell.Tab.0.bottom" timestamp="1611938078884">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1280" height="226" key="GridCell.Tab.0.bottom/0.23.1280.731@0.23.1280.731" timestamp="1611938078884" />
+    <state width="1280" height="226" key="GridCell.Tab.0.center" timestamp="1611938078883">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1280" height="226" key="GridCell.Tab.0.center/0.23.1280.731@0.23.1280.731" timestamp="1611938078883" />
+    <state width="1280" height="226" key="GridCell.Tab.0.left" timestamp="1611938078883">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1280" height="226" key="GridCell.Tab.0.left/0.23.1280.731@0.23.1280.731" timestamp="1611938078883" />
+    <state width="1280" height="226" key="GridCell.Tab.0.right" timestamp="1611938078884">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1280" height="226" key="GridCell.Tab.0.right/0.23.1280.731@0.23.1280.731" timestamp="1611938078884" />
+    <state width="1280" height="226" key="GridCell.Tab.1.bottom" timestamp="1611938078886">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1280" height="226" key="GridCell.Tab.1.bottom/0.23.1280.731@0.23.1280.731" timestamp="1611938078886" />
+    <state width="1280" height="226" key="GridCell.Tab.1.center" timestamp="1611938078885">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1280" height="226" key="GridCell.Tab.1.center/0.23.1280.731@0.23.1280.731" timestamp="1611938078885" />
+    <state width="1280" height="226" key="GridCell.Tab.1.left" timestamp="1611938078885">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1280" height="226" key="GridCell.Tab.1.left/0.23.1280.731@0.23.1280.731" timestamp="1611938078885" />
+    <state width="1280" height="226" key="GridCell.Tab.1.right" timestamp="1611938078885">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state width="1280" height="226" key="GridCell.Tab.1.right/0.23.1280.731@0.23.1280.731" timestamp="1611938078885" />
+    <state x="149" y="27" key="SettingsEditor" timestamp="1611923186649">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="149" y="27" key="SettingsEditor/0.23.1280.731@0.23.1280.731" timestamp="1611923186649" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/positionsystem/PositionCalcsTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
